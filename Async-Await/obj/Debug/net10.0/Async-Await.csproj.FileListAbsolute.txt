@@ -1,0 +1,14 @@
+/home/dimm/projects/c#/otus/Async-Await/bin/Debug/net10.0/Async-Await
+/home/dimm/projects/c#/otus/Async-Await/bin/Debug/net10.0/Async-Await.deps.json
+/home/dimm/projects/c#/otus/Async-Await/bin/Debug/net10.0/Async-Await.runtimeconfig.json
+/home/dimm/projects/c#/otus/Async-Await/bin/Debug/net10.0/Async-Await.dll
+/home/dimm/projects/c#/otus/Async-Await/bin/Debug/net10.0/Async-Await.pdb
+/home/dimm/projects/c#/otus/Async-Await/obj/Debug/net10.0/Async-Await.GeneratedMSBuildEditorConfig.editorconfig
+/home/dimm/projects/c#/otus/Async-Await/obj/Debug/net10.0/Async-Await.AssemblyInfoInputs.cache
+/home/dimm/projects/c#/otus/Async-Await/obj/Debug/net10.0/Async-Await.AssemblyInfo.cs
+/home/dimm/projects/c#/otus/Async-Await/obj/Debug/net10.0/Async-Await.csproj.CoreCompileInputs.cache
+/home/dimm/projects/c#/otus/Async-Await/obj/Debug/net10.0/Async-Await.dll
+/home/dimm/projects/c#/otus/Async-Await/obj/Debug/net10.0/refint/Async-Await.dll
+/home/dimm/projects/c#/otus/Async-Await/obj/Debug/net10.0/Async-Await.pdb
+/home/dimm/projects/c#/otus/Async-Await/obj/Debug/net10.0/Async-Await.genruntimeconfig.cache
+/home/dimm/projects/c#/otus/Async-Await/obj/Debug/net10.0/ref/Async-Await.dll
