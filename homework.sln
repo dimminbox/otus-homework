@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB", "DB\DB.csproj", "{4521
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paralel", "Paralel\Paralel.csproj", "{0E5332C9-E723-421A-BBA6-1BF583788B7C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patterns", "Patterns\Patterns.csproj", "{EE541EE4-8F42-4F4F-8AB2-EF95CD22EBEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,13 @@ Global
 		{0E5332C9-E723-421A-BBA6-1BF583788B7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E5332C9-E723-421A-BBA6-1BF583788B7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E5332C9-E723-421A-BBA6-1BF583788B7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE541EE4-8F42-4F4F-8AB2-EF95CD22EBEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE541EE4-8F42-4F4F-8AB2-EF95CD22EBEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE541EE4-8F42-4F4F-8AB2-EF95CD22EBEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE541EE4-8F42-4F4F-8AB2-EF95CD22EBEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92CE0773-34A0-4906-AFDD-CD550F5B5080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92CE0773-34A0-4906-AFDD-CD550F5B5080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92CE0773-34A0-4906-AFDD-CD550F5B5080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92CE0773-34A0-4906-AFDD-CD550F5B5080}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
