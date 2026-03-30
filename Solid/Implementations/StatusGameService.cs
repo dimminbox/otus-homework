@@ -6,26 +6,22 @@ namespace Solid.Implementations;
 
 public class StatusGameService : IStatusGameService
 {
-    private readonly IOutputService _outputService;
-    private readonly NumberSettings  _numberSettings;
+    private readonly NumberSettings _numberSettings;
 
-    public StatusGameService(IOutputService outputService, NumberSettings numberSettings)
+    public StatusGameService(NumberSettings numberSettings)
     {
         _numberSettings = numberSettings;
-        _outputService = outputService;
     }
 
-    public GameResultType? Check(int curRetries, DecisionNumberType decisionNumber, int goal = 0)
+    public GameResultType? Check(int curRetries, DecisionNumberType decisionNumber)
     {
         if (decisionNumber == DecisionNumberType.Equal)
         {
-            _outputService.PrintWon();
             return GameResultType.Won;
         }
 
         if (curRetries > _numberSettings.RetryCount)
         {
-            _outputService.PrintLose(goal);
             return GameResultType.Lost;
         }
 
